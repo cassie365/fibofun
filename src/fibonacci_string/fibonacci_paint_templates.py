@@ -134,4 +134,4 @@ class FibonacciPaintTemplate:
         """
         self.simple_turns_a_angle = a_angle
         self.simple_turns_b_angle = b_angle
-        self.simple_turns_fward = fwrd
+        self.simple_turns_fwrd = fwrd
