@@ -1,0 +1,24 @@
+# Virtual environment
+venv/
+.venv/
+
+# Compiled Python bytecode
+__pycache__/
+*.pyc
+
+# Editor/IDE specific files
+.vscode/
+.idea/
+
+# Sensitive information
+.env
+
+# Log files and databases
+*.log
+*.sqlite3
+
+# Distribution and build files
+dist/
+build/
+gens/
+output/
