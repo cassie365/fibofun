@@ -1,4 +1,7 @@
-# FiboFun
+
+<img width="2551" height="570" alt="fibofun" src="https://github.com/user-attachments/assets/4ddb3ebd-f7e8-4623-8dec-37513bdc3baa" />
+
+---
 In the age before diffusion models, existed **procedural art**. Simple rules which dictated how the virtual brush should dance across the canvas. To ensure that this art is not lost to me, I embarked on a journey that started with one famous sequence.
 
 **Fibonacci sequence**... **Hemachandra sequence**... Different names...
