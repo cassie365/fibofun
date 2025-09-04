@@ -31,16 +31,21 @@ No other dependencies are needed, except for eyes or some some sort of alternati
 
 ## Usage
 
+### Starting
+
 Start the project using
 `python main.py` or `python3 main.py`
 
 The painting process should begin with more information in the console.
 
+### Modifying the generation
 You can review `src/fibonacci_string/example.py` to modify the generation strategy and see how things are being done.
 
+### Locating the Output
 Two new directories will be created within your project folder.
 
 `gens` contains .txt files containing the plain text fibonacci string generated in `example.py`
+
 `output` contains .eps files with your finished painting.
 
 ### Viewing Output
